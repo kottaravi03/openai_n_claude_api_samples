@@ -25,7 +25,7 @@ def process_response(response: Message):
 
 
 def interact_with_model():
-    ask_claude("What is captial of France?")
+    ask_claude("What is captial of andhra pradesh?")
 
 
 def get_weather(city: str) -> dict:
